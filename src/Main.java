@@ -3,6 +3,7 @@ public class Main {
 
 
         System.out.println("I am a project");
+        System.out.println("Let's do another commit right now!!!");
 
     }
 }
